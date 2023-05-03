@@ -23,7 +23,12 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+.button {
+  outline: none;
+  padding: 10px;
+  background-color: #61dafb;
+  border-radius: 12px;
+}
 .App-link {
   color: #61dafb;
 }
